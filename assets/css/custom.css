@@ -1,0 +1,14 @@
+.name-label {
+  width: 450px;
+  font-size: 52px;
+}
+
+.title-label {
+  font-size: 20px !important;
+  margin-bottom: 0px;
+}
+
+.funny-label {
+  font-size: 9px !important;
+  opacity: 50%;
+}
