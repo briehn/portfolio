@@ -55,3 +55,12 @@
 .project-buttons {
   list-style:none;
 }
+
+.project-text {
+  font-size: 14px;
+}
+
+.project-text > p {
+  font-size: 28px;
+  margin-bottom: 1rem!important;
+}
